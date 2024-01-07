@@ -68,3 +68,5 @@ end
 gem 'psych', '~> 3.3', '>= 3.3.2'
 
 gem "pg", "~> 1.5"
+
+gem 'active_model_serializers', '~> 0.10.14'
